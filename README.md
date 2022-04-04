@@ -10,6 +10,6 @@ MOD LIST
 
 HARD CHARTS 
 -----------------
-Pack #1 (songs like Foolhardy, No Villains, Why Do You Hate Me) [https://whiskinator.github.io/PackH1/]
+[Pack #1 (Contains songs like Foolhardy, No Villains, Triple Trouble)](https://whiskinator.github.io/PackH1/)
 
-:trolled: this is a wip loser
+
