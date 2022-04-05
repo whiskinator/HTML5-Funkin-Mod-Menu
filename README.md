@@ -15,13 +15,9 @@ HARD CHARTS
 -----------------
 [Pack #1 (Contains songs like Foolhardy, No Villains, Combat)](https://whiskinator.github.io/PackH1/)
 
-INSANE CHARTS
+INSANE + EXPERT CHARTS
 -----------------
 WIP lol!!
-
-EXTREME CHARTS
------------------
-wip lol!!
 
 MULTIKEY CHARTS
 -----------------
