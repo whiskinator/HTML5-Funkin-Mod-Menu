@@ -9,6 +9,6 @@ vvv MOD LIST vvv
 
 HARD CHARTS 
 -----------------
-[Pack #1 (Contains songs like Foolhardy, No Villains, Triple Trouble)](https://whiskinator.github.io/PackH1/) -- for some reason all of the animations break in Bushwhack after Cablecrow switches in. no idea why but its kinda funny lol, will try to fix it tho (i think its related to bpm change stuff breaking)
+[Pack #1 (Contains songs like Foolhardy, No Villains, Combat)](https://whiskinator.github.io/PackH1/) -- for some reason all of the animations break in Bushwhack after Cablecrow switches in. no idea why but its kinda funny lol, will try to fix it tho (i think its related to bpm change stuff breaking)
 
 
