@@ -7,8 +7,27 @@ None of these mods are full ports, but rather they are just songs from different
 
 vvv MOD LIST vvv
 
+NORMAL CHARTS
+-----------------
+wip lol!!
+
 HARD CHARTS 
 -----------------
 [Pack #1 (Contains songs like Foolhardy, No Villains, Combat)](https://whiskinator.github.io/PackH1/)
 
+INSANE CHARTS
+-----------------
+WIP lol!!
+
+EXTREME CHARTS
+-----------------
+wip lol!!
+
+MULTIKEY CHARTS
+-----------------
+wip lol!!
+
+LAGGY CHARTS (difficulty varies, most of these will probably lag/crash low end pcs)
+-----------------
+wip lol!!
 
