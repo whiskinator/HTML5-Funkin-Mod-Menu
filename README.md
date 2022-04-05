@@ -25,5 +25,5 @@ wip lol!!
 
 LAGGY CHARTS (difficulty varies, most of these will probably lag/crash low end pcs)
 -----------------
-wip lol!!
+[Pack #1 (Contains songs like Triple Trouble & the V.S. Camellia songs)](https://whiskinator.github.io/PackLag_1/)
 
