@@ -9,7 +9,7 @@ vvv MOD LIST vvv
 
 NORMAL CHARTS
 -----------------
-wip lol!!
+[WIP] [Pack #1 (i got nothing done but it'll have songs like fisticuffs and easier probably)](https://whiskinator.github.io/PackNormal_1/)
 
 HARD CHARTS 
 -----------------
