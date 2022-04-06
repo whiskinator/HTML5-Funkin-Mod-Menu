@@ -13,7 +13,7 @@ NORMAL CHARTS
 
 HARD CHARTS 
 -----------------
-[WIP] [Pack #1 (Contains songs like Foolhardy, No Villains, Combat)](https://whiskinator.github.io/PackH1/)
+[WIP] [Pack #1 (Contains songs like Foolhardy, No Villains, Combat)](https://whiskinator.github.io/PackHard_1/)
 
 INSANE + EXPERT CHARTS
 -----------------
