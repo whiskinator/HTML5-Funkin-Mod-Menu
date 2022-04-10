@@ -11,7 +11,7 @@ NORMAL CHARTS
 =
 (Easier charts for less experienced players, though they do require fairly average skill to do well on)
 -
-[WIP] [Pack #1 (i got nothing done but it'll have songs like fisticuffs and easier probably)](https://whiskinator.github.io/PackNormal_1/)
+[WIP] [Pack #1 (Contains songs like Eruption, Fisticuffs, Talentless Fox)](https://whiskinator.github.io/PackNormal_1/)
 
 
 HARD CHARTS 
