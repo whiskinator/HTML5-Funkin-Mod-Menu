@@ -7,29 +7,12 @@ None of these mods are full ports, but rather they are just songs from different
 
 vvv MOD LIST vvv
 
-NORMAL CHARTS 
+SONG PACKS
 =
-(Easier charts for less experienced players, though they do require fairly average skill to do well on)
+(These are packs of 4K songs of varying difficulty)
 -
 
-[WIP] [Pack #1 (Contains songs like Eruption, Fisticuffs, Talentless Fox)](https://whiskinator.github.io/PackNormal_1/)
-
-
-HARD CHARTS 
-=
-(Harder charts for more experienced players, encompasess most "hard" songs for FNF mods)
--
-
-[WIP] [Pack #1 (Contains songs like Foolhardy, No Villains, Taste for Blood)](https://whiskinator.github.io/PackHard_1/)
-
-
-INSANE + EXPERT CHARTS 
-=
-(Much harder charts for more experienced players + charts that only have mania difficulty)
--
-
-[WIP] [Pack #1 (Contains songs like No Heroes, Talladega, Nom)](https://whiskinator.github.io/PackInsane_1/)
-
+[WIP] [Pack #1 (changing stuff woops!!)](https://whiskinator.github.io/Pack_1/)
 
 MULTIKEY CHARTS 
 =
