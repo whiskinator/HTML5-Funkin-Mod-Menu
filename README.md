@@ -9,12 +9,15 @@ vvv MOD LIST vvv
 
 SONG PACKS
 =
-(These are packs of 4K songs of varying difficulty)
+(4k songs of varying difficulty -- I decided to merge them together instead of having separate websites for each level of difficulty because it, ironically, was more unorganized and slow to work with.
 -
 
  [Pack #1 (Contains songs like Fourth Wall, Foolhardy, and Taste for Blood)](https://whiskinator.github.io/Pack_1/)
  
  [Pack #2 (Contains songs like No Villains, Combat, and Atomic Punch)](https://whiskinator.github.io/Pack_2/)
+ 
+ [Pack #3 (Contains songs like Chaos, Disruption, and Kaio-Ken)](https://whiskinator.github.io/Pack_3/)
+ 
 
 
 MULTIKEY CHARTS 
