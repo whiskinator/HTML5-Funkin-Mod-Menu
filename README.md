@@ -12,7 +12,10 @@ SONG PACKS
 (These are packs of 4K songs of varying difficulty)
 -
 
-[WIP] [Pack #1 (Contains songs like Fourth Wall, Foolhardy, and Taste for Blood)](https://whiskinator.github.io/Pack_1/)
+ [Pack #1 (Contains songs like Fourth Wall, Foolhardy, and Taste for Blood)](https://whiskinator.github.io/Pack_1/)
+ 
+ [Pack #2 (Contains songs like No Villains, Combat, and Atomic Punch)](https://whiskinator.github.io/Pack_2/)
+
 
 MULTIKEY CHARTS 
 =
