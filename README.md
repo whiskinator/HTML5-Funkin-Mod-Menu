@@ -1,1 +1,6 @@
-undergoing maintenance but if ur that desparate then the repositories are still up 
+doing maintenance stuff to fix lag so most stuff is deleted but here's a pack of ten songs lol
+
+[Pack #1](https://whiskinator.github.io/Pack_1/)
+-
+CONTAINS : Eruption, Detected, Danger, Revenger, Cooling, Overworked, Endless, Talentless Fox, Foolhardy, & Flaming Glove.
+
