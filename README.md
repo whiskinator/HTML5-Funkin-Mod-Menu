@@ -6,3 +6,7 @@ oh my hard drive also exploded so i lost all my files and have basically nothing
 [Pack #1](https://whiskinator.github.io/Pack_1/)
 -
 (Contains : Eruption, Revenger, Foolhardy, Flaming Glove, Burnout, Nightfall, Blast, Dad Battle ERECT MIX, Quiet OLD MIX)
+
+WIP [Pack #2](https://whiskinator.github.io/Pack_2/)
+-
+(Contains : Gunpowder, Guns PENKARU MIX, South ERECT MIX, Disassembler, Thunderstorm, Sporting VOIID MIX, Boxing Match VOIID Mix)
