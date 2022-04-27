@@ -5,8 +5,41 @@ oh my hard drive also exploded so i lost all my files and have basically nothing
 
 [Pack #1](https://whiskinator.github.io/Pack_1/)
 -
-(Contains : Eruption, Revenger, Foolhardy, Flaming Glove, Burnout, Nightfall, Blast, Dad Battle ERECT MIX, Quiet OLD MIX)
+SONG LIST
+
+Eruption - VS Shaggy
+
+Revenger - Friday Night Funkin': Redemption
+
+Foolhardy - VS Zardy
+
+Flaming Glove - VS Matt Voiid Side Remixes
+
+Burnout - VS Matt Voiid Side Remixes
+
+Nightfall - Arrowfunk
+
+Blast - VS Shaggy
+
+Dad Battle ERECT MIX - Chart by Niffirg
+
+Quiet OLD MIX - CN Takeover 
 
 [Pack #2](https://whiskinator.github.io/Pack_2/)
 -
-(Contains : Gunpowder, Guns PENKARU MIX, South ERECT MIX, Disassembler, Thunderstorm, Sporting VOIID MIX, Boxing Match VOIID Mix)
+SONG LIST
+
+Gunpowder - Incident 012F: Demo
+
+Guns PENKARU MIX - Chart by Niffirg
+
+South ERECT MIX - Chart by Niffirg
+
+Disassembler - VS Shaggy
+
+Thunderstorm - VS Shaggy
+
+Sporting VOIID MIX - VS Matt Voiid Side Remixes
+
+Boxing Match VOIID Mix - VS Matt Voiid Side Remixes
+
