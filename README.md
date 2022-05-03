@@ -2,9 +2,13 @@ packs of songs from friday night funkin mods on an edit of psych engine 0.5.2h
 
 oh my hard drive also exploded so i lost all my files and have basically nothing for now!! will need time to port stuff again
 
-(WIP) [Pack #1](https://whiskinator.github.io/Pack_1/)
+[Pack #1](https://whiskinator.github.io/Pack_1/)
 -
-Nightfall - Arrowfunk
+Kaio Ken - VS Shaggy
+
+Overwrite - The X Event 
+
+Warm Up - VS Matt Wiik 4 FANMADE
 
 Garden Havoc - VS Tomato Dude
 
@@ -25,4 +29,4 @@ Blast - VS Shaggy
 
 Changelog
 -
-Added Nightfall and Garden Havoc to Pack #1 (meant to do more but i spent the whole day sleeping)
+Removed Nightfall and added Overwite, Kaio Ken, and Warm Up to Pack #31
