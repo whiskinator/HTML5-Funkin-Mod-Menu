@@ -26,7 +26,7 @@ Foolhardy - VS Zardy
 
 Blast - VS Shaggy
 
-[Pack #2](https://whiskinator.github.io/Pack_2/)
+(WIP) [Pack #2](https://whiskinator.github.io/Pack_2/)
 -
 Nightfall - Arrowfunk
 
