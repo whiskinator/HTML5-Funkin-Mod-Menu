@@ -46,3 +46,7 @@ Turntables - VS Tomato Dude
 
 South ERECT MIX - Song by Kawai Sprite, chart by Niffirg
 
+Cooling - VS Hex
+
+Endless - VS Sonic.EXE
+
