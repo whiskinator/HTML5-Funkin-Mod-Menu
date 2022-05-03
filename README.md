@@ -29,4 +29,4 @@ Blast - VS Shaggy
 
 Changelog
 -
-Removed Nightfall and added Overwite, Kaio Ken, and Warm Up to Pack #31
+Removed Nightfall and added Overwite, Kaio Ken, and Warm Up to Pack #1
