@@ -26,7 +26,7 @@ Foolhardy - VS Zardy
 
 Blast - VS Shaggy
 
-(WIP) [Pack #2](https://whiskinator.github.io/Pack_2/)
+[Pack #2](https://whiskinator.github.io/Pack_2/)
 -
 Nightfall - Arrowfunk
 
@@ -36,6 +36,13 @@ God Eater - VS Shaggy
 
 Super Saiyan - VS Shaggy
 
-Changelog
--
-Created Pack #2 and added Nightfall, Corrupted Hero, God Eater, and Super Saiyan
+Trouble - VS Bob 
+
+Dodging - VS Matt Wiik 4 FANMADE
+
+Engarde - VS Matt Wiik 4 FANMADE
+
+Turntables - VS Tomato Dude
+
+South ERECT MIX - Song by Kawai Sprite, chart by Niffirg
+
