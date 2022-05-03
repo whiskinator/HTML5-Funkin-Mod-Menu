@@ -26,7 +26,16 @@ Foolhardy - VS Zardy
 
 Blast - VS Shaggy
 
+(WIP) [Pack #2](https://whiskinator.github.io/Pack_2/)
+-
+Nightfall - Arrowfunk
+
+Corrupted Hero - Pibby Corrupted
+
+God Eater - VS Shaggy
+
+Super Saiyan - VS Shaggy
 
 Changelog
 -
-Removed Nightfall and added Overwite, Kaio Ken, and Warm Up to Pack #1
+Created Pack #2 and added Nightfall, Corrupted Hero, God Eater, and Super Saiyan
