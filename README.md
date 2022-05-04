@@ -8,7 +8,7 @@ Kaio Ken - VS Shaggy
 
 Overwrite - The X Event 
 
-Warm Up - VS Matt Wiik 4 FANMADE
+Warm Up - VS Matt Wiik 4 FANMADE DEMO
 
 Garden Havoc - VS Tomato Dude
 
@@ -26,7 +26,7 @@ Foolhardy - VS Zardy
 
 Blast - VS Shaggy
 
-(WIP) [Pack #2](https://whiskinator.github.io/Pack_2/)
+[Pack #2](https://whiskinator.github.io/Pack_2/)
 -
 Nightfall - Arrowfunk
 
@@ -38,9 +38,9 @@ Super Saiyan - VS Shaggy
 
 Trouble - VS Bob 
 
-Dodging - VS Matt Wiik 4 FANMADE
+Dodging - VS Matt Wiik 4 FANMADE DEMO
 
-Engarde - VS Matt Wiik 4 FANMADE
+Engarde - VS Matt Wiik 4 FANMADE DEMO
 
 Turntables - VS Tomato Dude
 
@@ -49,4 +49,24 @@ South ERECT MIX - Song by Kawai Sprite, chart by Niffirg
 Cooling - VS Hex
 
 Endless - VS Sonic.EXE
+
+(WIP) [Pack #3](https://whiskinator.github.io/Pack_3/)
+-
+Onslaught - VS Bob
+
+Director's Cut - VS Celestia
+
+Gunpowder - Incident:012F Demo
+
+Showdown - VS Matt Wiik 4 FANMADE DEMO
+
+Sugar Rush - Starcatcher Remixes
+
+Thunderstorm - VS Shaggy
+
+Disassembler - VS Shaggy
+
+Changelog
+-
+Added Pack #3 and started adding songs 
 
