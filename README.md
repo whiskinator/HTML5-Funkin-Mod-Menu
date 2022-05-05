@@ -1,7 +1,29 @@
-packs of songs from friday night funkin mods on an edit of psych engine 0.5.2h
+Packs of songs on an edited version of Psych Engine 0.5.2h that includes multikey capabilities.
 
-oh my hard drive also exploded so i lost all my files and have basically nothing for now!! will need time to port stuff again
+Hard drive got wiped unexpectadly and I've lost most of my files, so it may take some time to get everything back up to speed.
 
-lol!!
+[Pack #1](https://whiskinator.github.io/Pack_1/)
 -
-everything down for maintenance again (adding multikey and reorganizing stuff to save memory)
+Sugar Rush - Starcatcher Remixes
+
+Warm Up - VS Matt Wiik 4 FANMADE DEMO
+
+Director's Cut - VS Celestia
+
+Garden Havoc - VS Tomato Dude
+
+Overwrite - The X Event
+
+Eruption - VS Shaggy
+
+Revenger - Friday Night Funkin': Redemption
+
+Quiet - CN Takeover
+
+Endless - VS Sonic EXE
+
+Foolhardy - VS Zardy
+
+Blast - VS Shaggy
+
+Kaio-Ken - VS Shaggy
