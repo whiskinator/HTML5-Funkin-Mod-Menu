@@ -2,6 +2,12 @@ Packs of songs on an edited version of Psych Engine 0.5.2h that includes multike
 
 Hard drive got wiped unexpectadly and I've lost most of my files, so it may take some time to get everything back up to speed.
 
+TODO : 
+
+Optimize asset cache code
+
+Add lane underlay customization
+
 [Pack #1](https://whiskinator.github.io/Pack_1/)
 -
 Sugar Rush - Starcatcher Remixes
